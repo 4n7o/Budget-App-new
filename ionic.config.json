@@ -1,0 +1,7 @@
+{
+  "name": "ion-prj",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
