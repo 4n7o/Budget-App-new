@@ -1,7 +1,5 @@
 {
-  "name": "ion-prj",
-  "integrations": {
-    "capacitor": {}
-  },
+  "name": "New Ionic App",
+  "integrations": {},
   "type": "angular"
 }
